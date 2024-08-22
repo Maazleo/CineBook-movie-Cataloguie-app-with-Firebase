@@ -44,6 +44,7 @@
   <img src="gitimg/searchscreen.jpg" alt="Search screen View" width="200"/>
   <img src="gitimg/profile.jpg" alt="Profile view" width="200"/>
   <img src="gitimg/category.jpg" alt="add category view" width="200"/>
+    <img src="accountscreen.jpg" alt="aCCOUNT SCREEN view" width="200"/>
   
 </p>
 ---
