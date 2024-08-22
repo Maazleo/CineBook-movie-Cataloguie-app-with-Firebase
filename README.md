@@ -44,6 +44,8 @@
   <img src="gitimg/searchscreen.jpg" alt="Search screen View" width="200"/>
   <img src="gitimg/profile.jpg" alt="Profile view" width="200"/>
   <img src="gitimg/category.jpg" alt="add category view" width="200"/>
+    <img src="gitimg/accountscreen.jpg" alt="Account screen view" width="200"/>
+  <img src="gitimg/firebaserealtimedb.jpg" alt="firebase view" width="200"/>
   
 </p>
 ---
