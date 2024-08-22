@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129954706586",
+    "project_id": "cinebook-7e3a2",
+    "storage_bucket": "cinebook-7e3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129954706586:android:113ea6b6f938715bf51b23",
+        "android_client_info": {
+          "package_name": "com.example.cinebox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDyhfufl90eJEoDon6WHbZeMCcPiOyFQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
